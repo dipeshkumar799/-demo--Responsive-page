@@ -1,0 +1,33 @@
+body {
+  overflow-x: hidden;
+}
+.fnwt {
+  font-weight: 900;
+}
+.txtfnwt {
+  font-weight: 600;
+}
+.ital-text {
+  font-style: italic;
+}
+.gap {
+  gap: 18px;
+}
+.infos {
+  background-color: rgb(51, 194, 146);
+}
+.grey {
+  background-color: rgb(114, 110, 110);
+}
+.htwt {
+  height: 55px;
+  width: 100vw;
+}
+.navbar-nav {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.margin {
+  margin: 0px -14;
+}
